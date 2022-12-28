@@ -1,1 +1,3 @@
-# Reinforcement-Learning--SARSA
+# Grid gaming environment
+Reinforcement learning
+SARSA
